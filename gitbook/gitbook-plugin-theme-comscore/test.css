@@ -20,7 +20,7 @@ th {
   background-color: #2674BA;
   color: white;
 }
-.markdown-section img {
+img {
   padding: 8px;
   background: #e4e4e478;
   transition: all 1s;
