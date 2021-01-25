@@ -8,9 +8,9 @@
 
 ## 安装步骤
 
-![新建虚拟机](../images/15/01.jpg)
+![新建虚拟机](../images/15/01.jpg#center)
 
-![选择典型](../images/15/02.jpg)
+![选择典型](../images/15/02.jpg#center)
 
 ![稍后安装](../images/15/03.jpg)
 
